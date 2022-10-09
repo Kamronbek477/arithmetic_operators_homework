@@ -7,3 +7,6 @@
 #Print the answer.
  
 #Print the number.
+number = 9
+answer = number%2/2
+print(answer)
